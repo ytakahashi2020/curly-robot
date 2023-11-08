@@ -7,5 +7,5 @@ gggg
 ddd
 sss
 ggg
-aaa
-dddxw
+sss
+ss
