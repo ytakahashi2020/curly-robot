@@ -1,17 +1,3 @@
 # curly-robot
 
-test
-aaa
-xxx
-gggg
-ddd
-sss
-ggg
-sss
-ss
-ss
-sss
-
-dddd
-main
-deve
+This is test
